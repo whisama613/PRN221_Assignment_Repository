@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CandidateManageWebsite
+build_property.RootNamespace = CandidateManageWebsite
+build_property.ProjectDir = C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\CandidateManageWebsite\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\CandidateManageWebsite
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/CandidateProfilePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/CandidateProfilePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/CandidateProfilePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/CandidateProfilePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/CandidateProfilePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUHJvZmlsZVBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/whisa/source/repos/PRN221PE_FA22_TrialTest_PhanHoangDuy/CandidateManageWebsite/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bu73z2hyoa

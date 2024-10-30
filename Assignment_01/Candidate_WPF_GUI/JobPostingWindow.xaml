@@ -1,0 +1,33 @@
+﻿<Window x:Name="JobPostWindow" x:Class="Candidate_WPF_GUI.JobPostingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Candidate_WPF_GUI"
+        mc:Ignorable="d"
+        Title="Job Posting Window" Height="708" Width="800" Background="#FF76BFCF">
+    <Grid x:Name="JobPostingWindow1" Height="624" VerticalAlignment="Top" Margin="0,37,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80*"/>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="17*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="JOB POSTING MANAGEMENT" FontSize="26" HorizontalAlignment="Left" Margin="210,-6,0,0" VerticalAlignment="Top" Height="42" Width="380" RenderTransformOrigin="1.024,-0.151" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <Label Content="Post ID" HorizontalAlignment="Left" Margin="30,65,0,0" VerticalAlignment="Top" FontSize="16" Height="32" Width="88" FontWeight="Bold"/>
+        <Label Content="Title" HorizontalAlignment="Left" Margin="30,101,0,0" VerticalAlignment="Top" FontSize="16" Height="32" Width="44" FontWeight="Bold"/>
+        <Label Content="Post Date" HorizontalAlignment="Left" Margin="30,143,0,0" VerticalAlignment="Top" FontSize="16" Height="30" Width="88" FontWeight="Bold"/>
+        <TextBox x:Name="TxtJobId" HorizontalAlignment="Left" Margin="123,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="264" Height="24"/>
+        <TextBox x:Name="TxtTitle" HorizontalAlignment="Left" Margin="123,105,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="264" Height="24"/>
+        <DatePicker x:Name="postDateTxt" HorizontalAlignment="Left" Margin="123,145,0,0" VerticalAlignment="Top" Width="264" Height="24"/>
+        <Label Content="Description" HorizontalAlignment="Left" Margin="39,65,0,0" VerticalAlignment="Top" FontSize="16" Grid.Column="1" Height="31" Width="101" FontWeight="Bold"/>
+        <DataGrid x:Name="dtgJobPosting" d:Name="JobPostingDataGrid" Margin="29,218,23,205" Grid.ColumnSpan="3" SelectionChanged="dtgJobPosting_SelectionChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="0" Margin="-245,443,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="AddBtn" Content="Add" HorizontalAlignment="Left" Height="49" Margin="50,547,0,0" VerticalAlignment="Top" Width="144" Background="#FF16DF1B" FontSize="16" Click="AddBtn_Click"/>
+        <Button x:Name="CloseBtn" Content="Close" HorizontalAlignment="Left" Height="49" Margin="228,547,0,0" VerticalAlignment="Top" Width="144" Background="#FFCF631B" FontSize="16" FontWeight="Bold" Grid.Column="1" Click="CloseBtn_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="RemoveBtn" Content="Remove" HorizontalAlignment="Left" Height="49" Margin="39,547,0,0" VerticalAlignment="Top" Width="144" Background="#FF3F62D2" FontSize="16" Grid.Column="1" Click="RemoveBtn_Click"/>
+        <Button x:Name="UpdateBtn" Content="Update" HorizontalAlignment="Left" Height="49" Margin="243,547,0,0" VerticalAlignment="Top" Width="144" Background="#FFD1CD1D" FontSize="16" Click="UpdateBtn_Click"/>
+        <TextBox x:Name="TxtDescription" Grid.Column="1" HorizontalAlignment="Left" Margin="39,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="333" Height="72" Grid.ColumnSpan="2"/>
+        <Button x:Name="RefreshBtn" Grid.Column="1" Content="Refresh" HorizontalAlignment="Left" Margin="300,5,0,0" VerticalAlignment="Top" Height="31" Width="56" Background="#FFE571E2" Click="RefreshBtn_Click" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

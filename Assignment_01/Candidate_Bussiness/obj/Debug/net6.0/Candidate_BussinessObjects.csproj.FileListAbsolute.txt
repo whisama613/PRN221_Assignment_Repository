@@ -1,0 +1,14 @@
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\bin\Debug\net6.0\Candidate_BussinessObjects.deps.json
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\bin\Debug\net6.0\Candidate_BussinessObjects.runtimeconfig.json
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\bin\Debug\net6.0\Candidate_BussinessObjects.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\bin\Debug\net6.0\Candidate_BussinessObjects.pdb
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.csproj.AssemblyReference.cache
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.AssemblyInfoInputs.cache
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.AssemblyInfo.cs
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\refint\Candidate_BussinessObjects.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.pdb
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\Candidate_BussinessObjects.genruntimeconfig.cache
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Bussiness\obj\Debug\net6.0\ref\Candidate_BussinessObjects.dll

@@ -1,0 +1,17 @@
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\bin\Debug\net6.0\Candidate_Repositories.deps.json
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\bin\Debug\net6.0\Candidate_Repositories.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\bin\Debug\net6.0\Candidate_Repositories.pdb
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\bin\Debug\net6.0\Candidate_BussinessObjects.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\bin\Debug\net6.0\Candidate_DAO.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\bin\Debug\net6.0\Candidate_DAO.pdb
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\bin\Debug\net6.0\Candidate_BussinessObjects.pdb
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidate_Repositories.csproj.AssemblyReference.cache
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidate_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidate_Repositories.AssemblyInfoInputs.cache
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidate_Repositories.AssemblyInfo.cs
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidate_Repositories.csproj.CoreCompileInputs.cache
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidat.0571E3D3.Up2Date
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidate_Repositories.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\refint\Candidate_Repositories.dll
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\Candidate_Repositories.pdb
+C:\Users\whisa\source\repos\PRN221PE_FA22_TrialTest_PhanHoangDuy\Candidate_Repo\obj\Debug\net6.0\ref\Candidate_Repositories.dll
